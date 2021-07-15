@@ -1,7 +1,7 @@
 # 0x00. ES6 Basics
 ***
 
-    _Concepts_
+    __Concepts__
     Software Linter
 
     __Resources__
